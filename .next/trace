@@ -4,3 +4,4 @@
   {"name":"next-build","duration":1157799,"timestamp":12683138599,"id":1,"tags":{"buildMode":"default","isTurboBuild":"false","version":"15.3.3"},"startTime":1749794718809,"traceId":"b079015733ea0fee"},
   {"name":"next-dev","duration":22728738,"timestamp":12966224718,"id":1,"tags":{},"startTime":1749795001894,"traceId":"7066d28eeff80836"}
 ]
+[{"name":"next-dev","duration":31752841,"timestamp":14285461337,"id":1,"tags":{},"startTime":1749796321143,"traceId":"deabec91f39cfae7"}]
