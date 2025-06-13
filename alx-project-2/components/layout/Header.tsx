@@ -1,3 +1,13 @@
+/**
+ * Header component that renders the main navigation bar for the application.
+ *
+ * This component uses Next.js `Link` for client-side navigation and applies
+ * styles from the associated CSS module. The navigation includes links to
+ * Home, About, Post, and Users pages.
+ *
+ * @component
+ * @returns {JSX.Element} The rendered header with navigation links.
+ */
 import Link from "next/link";
 import styles from "./Header.module.css";
 
@@ -22,4 +32,5 @@ const Header: React.FC = () => (
   </header>
 );
 
+// Ensure you export the Header component
 export default Header;
